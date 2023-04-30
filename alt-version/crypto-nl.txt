@@ -1,19 +1,18 @@
-#------------------------------------[UPDATE]--------------------------------------
+# ------------------------------------[UPDATE]--------------------------------------
 # Title: The Block List Project - Crypto List (NL)
-# Version:Fri, 12 Jun 2020 21:24:09 +0000
 # Expires: 1 day
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 22329
-#------------------------------------[SUPPORT]-------------------------------------
+# Total number of network filters: 23786
+# ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
 # - making a donation: https://paypal.me/blocklistproject
-#-------------------------------------[INFO]---------------------------------------
+# -------------------------------------[INFO]---------------------------------------
 #
 # Crypto List
-#------------------------------------[FILTERS]-------------------------------------
+# ------------------------------------[FILTERS]-------------------------------------
 0.r.msn.com
 000.0x1f4b0.com
 001.0x1f4b0.com
@@ -393,7 +392,7 @@ adbma.adk2.co
 adbtc.top
 adc.suprnova.cc
 adcast.deviantart.com
-adclick.g.doubleclick.net
+# adclick.g.doubleclick.net Belongs in ad list
 adconity.com
 adcore.lenovomm.com
 add.pool.mn
@@ -479,7 +478,6 @@ ads.eu.msn.com
 ads.flurry.com
 ads.gionee.com
 ads.gmodules.com
-ads.google.com
 ads.locationforexpert.com
 ads.msn.com
 ads.ninemsn.com.au
@@ -780,7 +778,7 @@ am.g.ireader.com
 am9ozs.xyz
 ama.adwo.com
 amaqcgrrmedi.bid
-amazonaws.com
+# amazonaws.com Issue 452
 amber.coin-miners.info
 amber.suprnova.cc
 amdc.m.taobao.com
@@ -1768,7 +1766,7 @@ best-cdn.pl
 best-game.xyz
 best-p2pool.eu
 bestcoinsignals.com
-bestETNpool.com
+bestetnpool.com
 besti.ga
 bestmobiworld.com
 bestsecurepractice.com
@@ -2357,6 +2355,7 @@ btcg-us.miningspeed.com
 btcg.miningspeed.com
 btcguild.com
 btchc.pool.mn
+btcminings.site
 btcnos.com
 btcp-api.suprnova.cc
 btcp-eu.coinblockers.com
@@ -3300,7 +3299,7 @@ conversion.pro.cn
 cookiemapping.wrating.com
 cookies.qp.si
 cookiescript.info
-cookiescript.infos
+# cookiescript.infos Issue 352
 cookiescriptcdn.pro
 cool-pool.net
 coop.pop.baofeng.com
@@ -7792,7 +7791,6 @@ ipcouosurtdqc.bid
 ipdcgsdjkz.bid
 ipdlsrwctdjb.com
 ipfs-gateway.ipbc.io
-ipfs.io
 iphonelog.shouji.baofeng.com
 iphwttyqzuhucw.bid
 ipinyou.com
@@ -10124,7 +10122,6 @@ mobile.nanopool.org
 mobile.thecoin.pw
 mobile2.da.mgtv.com
 mobileaccess.clona.ru
-mobileads.google.com
 mobileads.msn.com
 mobilelog.kugou.com
 mobilemsg.youku.com
@@ -15364,7 +15361,7 @@ stratum.minertopia.org
 stratum.mining-pool.io
 stratum.mining.eligius.st
 stratum.multipool.com
-stratum.myBTCcoin.com
+stratum.mybtccoin.com
 stratum.netcodepool.org
 stratum.new.hashhot.com
 stratum.nicehash.com
@@ -18879,7 +18876,7 @@ www.bellsyscdn.com
 www.berateveng.ru
 www.besocial.online
 www.best-p2pool.eu
-www.bestETNpool.com
+www.bestetnpool.com
 www.besti.ga
 www.bestmobiworld.com
 www.bestsecurepractice.com
@@ -23811,3 +23808,18 @@ zzqnkezokbegc.bid
 zzvjaqnkq.bid
 zzwzjidz.bid
 zzy1.quyaoya.com
+www.bybit.com
+www.kraken.com
+www.kucoin.com
+www.etoro.com
+phemex.com
+www.forex.com
+crypto.com
+www.webull.com
+crypto.gobabytrade.com
+tradeogre.com
+www.coincorner.com
+primexbt.com
+trade.eightcap.com
+tradecryptocapital.org
+cbtoken.me

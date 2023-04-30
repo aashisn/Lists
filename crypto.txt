@@ -1,19 +1,18 @@
-#------------------------------------[UPDATE]--------------------------------------
+# ------------------------------------[UPDATE]--------------------------------------
 # Title: The Block List Project - Crypto List
-# Version:Fri, 12 Jun 2020 21:24:09 +0000
 # Expires: 1 day
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 22329
-#------------------------------------[SUPPORT]-------------------------------------
+# Total number of network filters: 23786
+# ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
 # - making a donation: https://paypal.me/blocklistproject
-#-------------------------------------[INFO]---------------------------------------
+# -------------------------------------[INFO]---------------------------------------
 #
 # Crypto List
-#------------------------------------[FILTERS]-------------------------------------
+# ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 0.r.msn.com
 0.0.0.0 000.0x1f4b0.com
 0.0.0.0 001.0x1f4b0.com
@@ -479,7 +478,6 @@
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.gionee.com
 0.0.0.0 ads.gmodules.com
-0.0.0.0 ads.google.com
 0.0.0.0 ads.locationforexpert.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.ninemsn.com.au
@@ -780,7 +778,7 @@
 0.0.0.0 am9ozs.xyz
 0.0.0.0 ama.adwo.com
 0.0.0.0 amaqcgrrmedi.bid
-0.0.0.0 amazonaws.com
+# 0.0.0.0 amazonaws.com Issue 452
 0.0.0.0 amber.coin-miners.info
 0.0.0.0 amber.suprnova.cc
 0.0.0.0 amdc.m.taobao.com
@@ -1768,7 +1766,7 @@
 0.0.0.0 best-game.xyz
 0.0.0.0 best-p2pool.eu
 0.0.0.0 bestcoinsignals.com
-0.0.0.0 bestETNpool.com
+0.0.0.0 bestetnpool.com
 0.0.0.0 besti.ga
 0.0.0.0 bestmobiworld.com
 0.0.0.0 bestsecurepractice.com
@@ -2357,6 +2355,7 @@
 0.0.0.0 btcg.miningspeed.com
 0.0.0.0 btcguild.com
 0.0.0.0 btchc.pool.mn
+0.0.0.0 btcminings.site
 0.0.0.0 btcnos.com
 0.0.0.0 btcp-api.suprnova.cc
 0.0.0.0 btcp-eu.coinblockers.com
@@ -3300,7 +3299,7 @@
 0.0.0.0 cookiemapping.wrating.com
 0.0.0.0 cookies.qp.si
 0.0.0.0 cookiescript.info
-0.0.0.0 cookiescript.infos
+# 0.0.0.0 cookiescript.infos Issue 352
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cool-pool.net
 0.0.0.0 coop.pop.baofeng.com
@@ -7792,7 +7791,6 @@
 0.0.0.0 ipdcgsdjkz.bid
 0.0.0.0 ipdlsrwctdjb.com
 0.0.0.0 ipfs-gateway.ipbc.io
-0.0.0.0 ipfs.io
 0.0.0.0 iphonelog.shouji.baofeng.com
 0.0.0.0 iphwttyqzuhucw.bid
 0.0.0.0 ipinyou.com
@@ -10124,7 +10122,6 @@
 0.0.0.0 mobile.thecoin.pw
 0.0.0.0 mobile2.da.mgtv.com
 0.0.0.0 mobileaccess.clona.ru
-0.0.0.0 mobileads.google.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobilelog.kugou.com
 0.0.0.0 mobilemsg.youku.com
@@ -14548,7 +14545,7 @@
 0.0.0.0 sia.nanopool.org
 0.0.0.0 sia.pool.mn
 0.0.0.0 sia.suprnova.cc
- 0.0.0.0 sia.tech Issue 128
+# 0.0.0.0 sia.tech Issue 128
 0.0.0.0 sia.usa.nicehash.com
 0.0.0.0 sia.waterhole.io
 0.0.0.0 siaalpha.nanopool.org
@@ -15364,7 +15361,7 @@
 0.0.0.0 stratum.mining-pool.io
 0.0.0.0 stratum.mining.eligius.st
 0.0.0.0 stratum.multipool.com
-0.0.0.0 stratum.myBTCcoin.com
+0.0.0.0 stratum.mybtccoin.com
 0.0.0.0 stratum.netcodepool.org
 0.0.0.0 stratum.new.hashhot.com
 0.0.0.0 stratum.nicehash.com
@@ -18879,7 +18876,7 @@
 0.0.0.0 www.berateveng.ru
 0.0.0.0 www.besocial.online
 0.0.0.0 www.best-p2pool.eu
-0.0.0.0 www.bestETNpool.com
+0.0.0.0 www.bestetnpool.com
 0.0.0.0 www.besti.ga
 0.0.0.0 www.bestmobiworld.com
 0.0.0.0 www.bestsecurepractice.com
@@ -23811,3 +23808,18 @@
 0.0.0.0 zzvjaqnkq.bid
 0.0.0.0 zzwzjidz.bid
 0.0.0.0 zzy1.quyaoya.com
+0.0.0.0 www.bybit.com
+0.0.0.0 www.kraken.com
+0.0.0.0 www.kucoin.com
+0.0.0.0 www.etoro.com
+0.0.0.0 phemex.com
+0.0.0.0 www.forex.com
+0.0.0.0 crypto.com
+0.0.0.0 www.webull.com
+0.0.0.0 crypto.gobabytrade.com
+0.0.0.0 tradeogre.com
+0.0.0.0 www.coincorner.com
+0.0.0.0 primexbt.com
+0.0.0.0 trade.eightcap.com
+0.0.0.0 tradecryptocapital.org
+0.0.0.0 cbtoken.me

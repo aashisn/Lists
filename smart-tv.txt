@@ -1,18 +1,18 @@
-#------------------------------------[UPDATE]--------------------------------------
+# ------------------------------------[UPDATE]--------------------------------------
 # Title: The Block List Project - Smart TV List
 # Expires: 1 day
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 151341
-#------------------------------------[SUPPORT]-------------------------------------
+# Total number of network filters: 72
+# ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
 # - making a donation: https://paypal.me/blocklistproject
-#-------------------------------------[INFO]---------------------------------------
+# -------------------------------------[INFO]---------------------------------------
 #
 # Smart TV list
-#------------------------------------[FILTERS]-------------------------------------
+# ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ads.samsungads.com
@@ -25,7 +25,7 @@
 0.0.0.0 config.samsungads.com
 0.0.0.0 control-zoo-dtsstage.tvinteractive.tv
 0.0.0.0 cooper.logs.roku.com
-0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0 coordinator-production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 d179kwmlpc4o47.cloudfront.ne
 0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d2tnx644ijgq6i.cloudfront.net
@@ -70,7 +70,7 @@
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 track.sr.roku.com
 0.0.0.0 tvinteractive.tv
-0.0.0.0 tvx.adgrx.com 
+0.0.0.0 tvx.adgrx.com
 0.0.0.0 uimetadata.samsungiotcloud.com
 0.0.0.0 us.ad.lgsmartad.com
 0.0.0.0 us.ibs.lgappstv.com
@@ -83,3 +83,5 @@
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 gld.push.samsungosp.com
 0.0.0.0 sas.samsungcloudsolution.com
+0.0.0.0 events.cid.samba.tv
+0.0.0.0 platform.cid.samba.tv

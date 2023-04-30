@@ -1,19 +1,18 @@
-#------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - Basic Starter List
-# Version:Fri, 12 Jun 2020 21:24:09 +0000
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Basic Starter List (NL)
 # Expires: 1 day
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 
-#------------------------------------[SUPPORT]-------------------------------------
+# Total number of network filters: 76462
+# ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
 # - making a donation: https://paypal.me/blocklistproject
-#-------------------------------------[INFO]---------------------------------------
+# -------------------------------------[INFO]---------------------------------------
 #
 # Starter Basic List
-#------------------------------------[FILTERS]-------------------------------------
+# ------------------------------------[FILTERS]-------------------------------------
 0-app.com
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -85,8 +84,8 @@
 008.free-counter.co.uk
 008.free-counters.co.uk
 00author.com
-00fun.com
-00go.com
+00fun.com # [Tracking.Cookie]
+# 00go.com Issue 411
 00it.com
 00sexus.com
 00webcams.com
@@ -9154,7 +9153,7 @@ api.prooffactor.com
 api.proofpositivemedia.com
 api.publishers.adlive.io
 api.pubnative.net
-api.punchh.com
+# api.punchh.com issue 484
 api.purpleads.io
 api.push.world
 api.pushdi.com
@@ -21770,7 +21769,6 @@ fdff44.t.axf8.net
 fdimages.fairfax.com.au
 fdn-en.net
 fdz.flashtalking.com
-fe #00::0 ip6-localnet
 fe-au.imrworldwide.com
 fe.brandreachsys.com
 fe.lea.lycos.es
@@ -21858,7 +21856,6 @@ feuqzl.woolrich.com
 fev.fyber.com
 feyhuy.emp-shop.sk
 feylibertad.org
-ff #00::0 ip6-mcastprefix
 ff.connextra.com
 ff.doubleclick.net
 ff.imacdn.com
@@ -29840,7 +29837,7 @@ js.hubspot.com
 js.idio.co
 js.impact.ne.jp
 js.indexww.com
-js.intercomcdn.com
+# js.intercomcdn.com False positive
 js.isboost.co.jp
 js.juicyads.com
 js.kau.li
@@ -41361,7 +41358,6 @@ pge.toinvest.pro
 pge.unityads.unity3d.com
 pgebok.com
 pgiinvest.com
-pgl.example #0101
 pgl.example.com
 pgmediaserve.com
 pgniginvest.info
@@ -41648,7 +41644,6 @@ piwik.cam-content.com  #[Piwik.Analytics]
 piwik.datawrapper.de  #[Piwik.Analytics]
 piwik.dsp.vn
 piwik.ero-advertising.com
-piwik.fsf.org
 piwik.ientry.com
 piwik.medienhaus.com
 piwik.mortgageloan.com  #[Piwik.Analytics]
@@ -53095,7 +53090,7 @@ taboola.com.edgekey.net
 taboolasyndication.com
 tabxolabs.com
 tackthisclick.com
-tacloban.gov.ph
+# tacloban.gov.ph
 tacobell.d1.sc.omtrdc.net
 tacoda.at.atwola.com
 tacoda.net
@@ -72116,7 +72111,7 @@ www.taboola.com
 www.taboola.com.edgekey.net
 www.taboolasyndication.com
 www.tabxolabs.com
-www.tacloban.gov.ph
+# www.tacloban.gov.ph
 www.tacticaltrainingdatabase.com
 www.taffr.com
 www.tag4arm.com  #[Piwik.Analytics]
